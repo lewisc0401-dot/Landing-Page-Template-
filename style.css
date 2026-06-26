@@ -1,4 +1,6 @@
 body {
-    background-color: rgba(245, 16, 176, 0.899);
-    border: 2px solid black;
+
+    background-color: light pink;
+    margin: 0;
+    border: solid 1px black;
 }
